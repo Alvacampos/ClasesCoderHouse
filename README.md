@@ -27,7 +27,7 @@ Este repo fue creado para complementar lo visto en clase. Aqui tendran acceso al
 
 ### Complementario
 
-- [AfterClass 4](./afterClass4/index.html)
+- [AfterClass](./afterclass/)
 
 ## Recomendaciones
 
