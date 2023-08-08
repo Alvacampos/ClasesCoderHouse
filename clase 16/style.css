@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  height: 100vh;
+  flex-flow: wrap;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 150px;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+  margin: 25px 10px;
+  border: 2px solid grey;
+  box-shadow: -1px 6px 24px 2px rgba(0, 0, 0, 0.75);
+  border-radius: 5px;
+}
+
+img {
+  width: 100%;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  display: flex;
+  gap: 5px;
+}
