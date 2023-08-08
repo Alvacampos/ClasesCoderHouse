@@ -19,7 +19,7 @@ Este repo fue creado para complementar lo visto en clase. Aqui tendran acceso al
 - 10 Eventos
 - 11 Storage & JSON
 - 12 Operadores Avanzados I
-- 13 [Operadores Avanzados II]
+- 13 Operadores Avanzados II
 - 14 [Librerias](./clase%2014/index.js)
 - 15 [Asincronía y promesas](./clase%2015/index.js)
 - 16 [AJAX & Fetch](./clase%2016/index.js)
@@ -33,9 +33,9 @@ Este repo fue creado para complementar lo visto en clase. Aqui tendran acceso al
 
 No ver el material de la prox clase ya que los ejemplos pueden ser confusos y poco utiles sin la explicacion adecuada. En muchos casos van a ver todo o casi todo el codigo de un archivo js comentado, eso es porque son varios ejemplos y es mejor correr uno a la vez, cada ejemplo inicia con un comentario y un simbolo como los siguientes.
 
-<!--! Inicio del ejemplo -->
-<!--* Inicio del ejemplo -->
-<!--? Inicio del ejemplo -->
+//! Inicio del ejemplo
+//\* Inicio del ejemplo
+//? Inicio del ejemplo
 
 _Necesitan la extension Better Comments para poder verlos bien_
 
