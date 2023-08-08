@@ -33,19 +33,20 @@ Este repo fue creado para complementar lo visto en clase. Aqui tendran acceso al
 
 No ver el material de la prox clase ya que los ejemplos pueden ser confusos y poco utiles sin la explicacion adecuada. En muchos casos van a ver todo o casi todo el codigo de un archivo js comentado, eso es porque son varios ejemplos y es mejor correr uno a la vez, cada ejemplo inicia con un comentario y un simbolo como los siguientes.
 
-//! Inicio del ejemplo
-//\* Inicio del ejemplo
-//? Inicio del ejemplo
+// ! Inicio del ejemplo.
+// \* Inicio del ejemplo.
+// ? Inicio del ejemplo.
 
 _Necesitan la extension Better Comments para poder verlos bien_
 
 ## Herramientas
 
-Aqui se van a listar herramientas utiles para el curso y programar en general.
+Herramientas utiles para la clase y para programar en general.
 
 - [VSCode](https://code.visualstudio.com/download)
 - [NodeJs](https://nodejs.org/es/download)
 - [Gitbash](https://git-scm.com/downloads)
+- JSON Formatter (Extension Chrome)
 
 ### Extensiones VSCode
 
@@ -57,3 +58,15 @@ Algunas extensiones utiles, las mismas se pueden encontrar en la pestaña de ext
 - JavaScript (ES6) code snippets
 - Prettier - Code formatter
 - vscode-icons
+
+### Links utiles
+
+[Aqui](https://roadmap.sh/) van a encontrar un mapa aproximado del camino a recorrer, tengan en cuenta que cada uno hace su camino y no existe un solo camino correcto. Espero que les sirva.
+
+[Aqui](https://www.cv-template.com/en) pueden crear su cv, es una herramienta basica pero gratuita!.
+
+[Aqui](https://github.com/Alvacampos/web-dev-project) tienen mi proyecto de coderhouse, tengan en cuenta de que **no pueden copiarlo** pero pueden sacar ideas.
+
+[Aqui](https://www.linkedin.com/in/gonzaloalvarezcampos/) les dejo mi linkedin, pueden agregarme y mandarme consultas o lo que necesiten, siempre que puedo doy una mano!.
+
+[Aqui](https://www.codewars.com/collections/javascript-basics-2) van a encontrar practicas de JS, pueden crearse una cuenta e ir subiendo de nivel!.
