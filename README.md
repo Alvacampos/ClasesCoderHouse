@@ -18,8 +18,8 @@ Este repo fue creado para complementar lo visto en clase. Aqui tendran acceso al
 - 9 DOM
 - 10 Eventos
 - 11 Storage & JSON
-- 12 Operadores Avanzados I
-- 13 Operadores Avanzados II
+- 12 [Operadores Avanzados I](./clase%2012/index.js)
+- 13 [Operadores Avanzados II](./clase%2013/index.js)
 - 14 [Librerias](./clase%2014/index.js)
 - 15 [Asincronía y promesas](./clase%2015/index.js)
 - 16 [AJAX & Fetch](./clase%2016/index.js)
