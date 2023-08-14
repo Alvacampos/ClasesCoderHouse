@@ -5,10 +5,26 @@ const port = 3000;
 
 //? Crear un servidor con el protocolo HTTP y la funcion callback de request y response.
 const server = http.createServer((req, res) => {
-  console.log(req);
+  const users = [
+    {
+      name: 'maria',
+      lastname: 'sanchez',
+      age: 456987,
+    },
+    {
+      name: 'manuel',
+      lastname: 'soto',
+      age: 234567,
+    },
+    {
+      name: 'miguela',
+      lastname: 'martinez',
+      age: 345678,
+    },
+  ];
   res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello Soy un servidor creado con NodeJs!');
+  res.setHeader('Content-Type', 'application/json');
+  res.end(JSON.stringify(users));
 });
 
 //? El servidor escucha request con la configuracion otorgada.
