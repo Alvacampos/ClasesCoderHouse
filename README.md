@@ -34,7 +34,7 @@ Este repo fue creado para complementar lo visto en clase. Aqui tendran acceso al
 No ver el material de la prox clase ya que los ejemplos pueden ser confusos y poco utiles sin la explicacion adecuada. En muchos casos van a ver todo o casi todo el codigo de un archivo js comentado, eso es porque son varios ejemplos y es mejor correr uno a la vez, cada ejemplo inicia con un comentario y un simbolo como los siguientes.
 
 // ! Inicio del ejemplo.
-// \* Inicio del ejemplo.
+// * Inicio del ejemplo.
 // ? Inicio del ejemplo.
 
 _Necesitan la extension Better Comments para poder verlos bien_
